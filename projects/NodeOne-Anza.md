@@ -22,7 +22,7 @@
 
 # ✨ Overview
 
-**Anza Protocol** is an open, decentralized licensing infrastructure that lets creators **make an offer, define the terms, and create a verifiable record of the transaction.**
+**Anza** is an open, decentralized licensing infrastructure that lets creators **make an offer, define the terms, and create a verifiable record of the transaction.**
 
 For Hack4Freedom Nairobi 2026, we built a working creator-licensing application around that protocol.
 
