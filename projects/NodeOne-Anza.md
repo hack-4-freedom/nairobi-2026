@@ -590,7 +590,7 @@ Introduce buyer identity and acceptance, then build reputation signals around ve
 
 ### 🌐 Project
 
-**[Try Anza](https://github.com/Aishagojo/ANZA) - TO BE UPDATED**
+**[Try Anza](https://anza-3kwz.onrender.com/)**
 
 ---
 
