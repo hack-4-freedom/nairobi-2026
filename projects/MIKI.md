@@ -45,14 +45,21 @@ MIKI leverages the instant finality of the **Bitcoin Lightning Network** combine
 
 ## Team
 
-* **Developers:** Idah Anyango, Edith Wangari, Riziki Bokoko, Vanessa, Joy, Vera Nyagaka
-* **Hackathon:** Hack4Freedom Nairobi 2026
+### Team Members
+- **Riziki** - Full-Stack Developer
+- **Idah** - Product Manager
+- **Joy** - Frontend Developer
+- **Vanessa** - Backend Developer
+- **Edith** - Backend Developer
+- **Vera** - Team Lead
+
+**Hackathon:** Hack4Freedom Nairobi 2026
 
 ---
 
 ## Repository & Links
 
-* **GitHub Repository:** `https://github.com/Wainainajoy/miki_dev`
+* **GitHub Repository:** `https://github.com/Wainainajoy/miki_dev`, `https://github.com/edith-n/miki-payment`
 * **Live Demo:** `https://miki-voice-wallet.shakespeare.wtf`
 
 ---
