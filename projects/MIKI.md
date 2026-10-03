@@ -52,7 +52,7 @@ MIKI leverages the instant finality of the **Bitcoin Lightning Network** combine
 
 ## Repository & Links
 
-* **GitHub Repository:** 
+* **GitHub Repository:** `https://github.com/Wainainajoy/miki_dev`
 * **Live Demo:** `https://miki-voice-wallet.shakespeare.wtf`
 
 ---
